@@ -1,5 +1,5 @@
 # Boards compatible with this app 
-TARGET_BOARDS := pca10153 pca20049 pca20064 
+TARGET_BOARDS := pca10153 pca20049 pca20064 dani-nic-custom
 
 # Define a specific application area_id
 app_specific_area_id=0x846B74
